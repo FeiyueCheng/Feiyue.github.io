@@ -2,12 +2,12 @@
 title: FY Blog
 SEOTitle: 玥菲的博客 | FY Blog
 header-img: img/post-bg-desk.jpg
-email: zhangsazib@hotmail.com
+email: Feiyue@163.com
 description: "冰冻三尺非一日之寒."
-keyword: "QY, QY Blog, 青音的博客, setsuriaoto, 青音, Javascript, CSS, HTML"
-url: "https://chuyueZhang.github.io"          # your host, for absolute URL
+keyword: "FY, FY Blog, 玥菲的博客, 玥菲, Javascript, CSS, HTML"
+url: "https://feiyuecheng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/chuyueZhang/chuyueZhang.github.io" # you code repository
+github_repo: "https://github.com/FeiyueCheng/FeiyueCheng.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,14 +18,12 @@ sidebar-avatar: /img/about-qy-gentle.png     # use absolute URL, seeing it's use
 
 # SNS settings
 RSS: false
-# weibo_username:   雪莉青音  
-zhihu_username:     zhang-chu-yue-84
-github_username:    chuyueZhang
+# weibo_username:   程  
+# zhihu_username:     程
+github_username:    FeiyueCheng
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
-#twitter_username:   雪莉青音
-
-
+#twitter_username:   程
 
 
 # Build settings
@@ -66,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 9a8555757e5d6587b89a                            #生成的clientID
   clientSecret: 79e85f55415def5142467c97ff0f29ff2edee131    #生成的clientSecret
-  repo: chuyueZhang.github.io    #仓库名称
-  owner: chuyueZhang    #github用户名
-  admin: ['chuyueZhang']
+  repo: FeiyueCheng.github.io    #仓库名称
+  owner: FeiyueCheng    #github用户名
+  admin: ['FeiyueCheng']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -101,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "知乎·qy",
-        href: "https://www.zhihu.com/people/zhang-chu-yue-84/activities"
+        title: "知乎·FY",
+        # href: "https://www.zhihu.com/people/zhang-chu-yue-84/activities"
     }
 ]
